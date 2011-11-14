@@ -9,7 +9,7 @@ gem 'sqlite3', '1.3.3'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
-gem 'win32console'
+#gem 'win32console'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
